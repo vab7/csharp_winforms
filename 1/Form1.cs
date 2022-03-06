@@ -12,6 +12,8 @@ namespace _1
 {
     public partial class Form1 : Form
     {
+
+        //oeuoeu eoueu
         public Form1()
         {
             InitializeComponent();
