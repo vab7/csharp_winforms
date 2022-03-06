@@ -15,7 +15,7 @@ namespace _2
         double x = 0.1722,
                y = 6.33,
                z = 0.00325,
-               result = 0.0;
+               result = 0.0; // -172.025
 
         void printResult()
         {
@@ -32,9 +32,9 @@ namespace _2
 
             printResult();
 
-            textBox1.Text = x.ToString();
-            textBox2.Text = y.ToString();
-            textBox3.Text = z.ToString();
+            textBox1.Text = $"{x}";
+            textBox2.Text = $"{y}";
+            textBox3.Text = $"{z}";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -43,7 +43,8 @@ namespace _2
             y = double.Parse(textBox2.Text);
             z = double.Parse(textBox3.Text);
 
-            result = 5 * Math.Atan(x) - 0.25 * Math.Acos(x) * ((x + 3 * Math.Abs(x - y) * +Math.Pow(x, 2)) / Math.Abs(x - y) * z + Math.Pow(x, 2));
+            result = 5 * Math.Atan(x) - 0.25 * Math.Acos(x) * 
+                ((x + 3 * Math.Abs(x - y) * + Math.Pow(x, 2)) / Math.Abs(x - y) * z + Math.Pow(x, 2));
         
             printResult();
         }
