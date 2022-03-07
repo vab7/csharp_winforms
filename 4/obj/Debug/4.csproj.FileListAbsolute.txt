@@ -1,0 +1,11 @@
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\_4.Form1.resources
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\BVAle\C#\CSharpRKSI\4\bin\Debug\4.exe.config
+C:\Users\BVAle\C#\CSharpRKSI\4\bin\Debug\4.exe
+C:\Users\BVAle\C#\CSharpRKSI\4\bin\Debug\4.pdb
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.exe
+C:\Users\BVAle\C#\CSharpRKSI\4\obj\Debug\4.pdb

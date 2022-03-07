@@ -1,0 +1,11 @@
+C:\Users\BVAle\C#\CSharpRKSI\6\bin\Debug\6.exe.config
+C:\Users\BVAle\C#\CSharpRKSI\6\bin\Debug\6.exe
+C:\Users\BVAle\C#\CSharpRKSI\6\bin\Debug\6.pdb
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.csproj.SuggestedBindingRedirects.cache
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\_6.Form1.resources
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\_6.Properties.Resources.resources
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.csproj.GenerateResource.cache
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.exe
+C:\Users\BVAle\C#\CSharpRKSI\6\obj\Debug\6.pdb
